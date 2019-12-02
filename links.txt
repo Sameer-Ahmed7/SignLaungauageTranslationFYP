@@ -1,0 +1,3 @@
+Youtube : https://www.youtube.com/watch?v=vXSTZNEkHlg
+Github : https://github.com/shadabsk/Sign-Language-Recognition-Using-Hand-Gestures-Keras-PyQT5-OpenCV
+         https://github.com/rrupeshh/Simple-Sign-Language-Detector
